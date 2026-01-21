@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khacb\\source\\repos\\WebApplication4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7967130E-FDDA-47BE-AD2B-C65095163BF5}|WebApplication4\\TimViec.csproj|c:\\users\\khacb\\source\\repos\\webapplication4\\webapplication4\\controllers\\matchjobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7967130E-FDDA-47BE-AD2B-C65095163BF5}|WebApplication4\\TimViec.csproj|solutionrelative:webapplication4\\controllers\\matchjobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7967130E-FDDA-47BE-AD2B-C65095163BF5}|WebApplication4\\TimViec.csproj|c:\\users\\khacb\\source\\repos\\webapplication4\\webapplication4\\models\\airesult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7967130E-FDDA-47BE-AD2B-C65095163BF5}|WebApplication4\\TimViec.csproj|solutionrelative:webapplication4\\models\\airesult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7967130E-FDDA-47BE-AD2B-C65095163BF5}|WebApplication4\\TimViec.csproj|c:\\users\\khacb\\source\\repos\\webapplication4\\webapplication4\\timviec.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7967130E-FDDA-47BE-AD2B-C65095163BF5}|WebApplication4\\TimViec.csproj|solutionrelative:webapplication4\\timviec.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7967130E-FDDA-47BE-AD2B-C65095163BF5}|WebApplication4\\TimViec.csproj|c:\\users\\khacb\\source\\repos\\webapplication4\\webapplication4\\views\\job\\matchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7967130E-FDDA-47BE-AD2B-C65095163BF5}|WebApplication4\\TimViec.csproj|solutionrelative:webapplication4\\views\\job\\matchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7967130E-FDDA-47BE-AD2B-C65095163BF5}|WebApplication4\\TimViec.csproj|c:\\users\\khacb\\source\\repos\\webapplication4\\webapplication4\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7967130E-FDDA-47BE-AD2B-C65095163BF5}|WebApplication4\\TimViec.csproj|solutionrelative:webapplication4\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MatchResults.cshtml",
+              "DocumentMoniker": "C:\\Users\\khacb\\source\\repos\\WebApplication4\\WebApplication4\\Views\\Job\\MatchResults.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Job\\MatchResults.cshtml",
+              "ToolTip": "C:\\Users\\khacb\\source\\repos\\WebApplication4\\WebApplication4\\Views\\Job\\MatchResults.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Job\\MatchResults.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T12:20:04.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimViec",
+              "DocumentMoniker": "C:\\Users\\khacb\\source\\repos\\WebApplication4\\WebApplication4\\TimViec.csproj",
+              "RelativeDocumentMoniker": "WebApplication4\\TimViec.csproj",
+              "ToolTip": "C:\\Users\\khacb\\source\\repos\\WebApplication4\\WebApplication4\\TimViec.csproj",
+              "RelativeToolTip": "WebApplication4\\TimViec.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-21T12:17:27.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatchJobController.cs",
+              "DocumentMoniker": "C:\\Users\\khacb\\source\\repos\\WebApplication4\\WebApplication4\\Controllers\\MatchJobController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\MatchJobController.cs",
+              "ToolTip": "C:\\Users\\khacb\\source\\repos\\WebApplication4\\WebApplication4\\Controllers\\MatchJobController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\MatchJobController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T12:16:45.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AIResult.cs",
+              "DocumentMoniker": "C:\\Users\\khacb\\source\\repos\\WebApplication4\\WebApplication4\\Models\\AIResult.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\AIResult.cs",
+              "ToolTip": "C:\\Users\\khacb\\source\\repos\\WebApplication4\\WebApplication4\\Models\\AIResult.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\AIResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T12:16:03.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\khacb\\source\\repos\\WebApplication4\\WebApplication4\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\Job.cs",
+              "ToolTip": "C:\\Users\\khacb\\source\\repos\\WebApplication4\\WebApplication4\\Models\\Job.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\Job.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:24:55.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
